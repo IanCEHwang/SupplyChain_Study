@@ -1,6 +1,0 @@
-===============
-Reference
-===============
-
-.. automodule:: glpk
-    :members:
