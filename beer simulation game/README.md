@@ -1,4 +1,4 @@
-### Simulate the beer simulation game in simpy. Assume each time step corre- sponds to one week. 
+### Simulate the beer simulation game in simpy. Assume each time step corresponds to one week. 
 
 Consider the supply chain that is similar to what you played in in the game.
 
